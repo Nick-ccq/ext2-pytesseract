@@ -1,0 +1,7 @@
+{
+    "gui.blocklyText.pytesseract.extensionName": "pytesseract",
+    "gui.blocklyText.pytesseract.matplotlib_Iint": "Initialize camera until success number[CAMNUM]",
+    "gui.blocklyText.pytesseract.matplotlib_Iintsize": "Open camera view for reading",
+    "gui.blocklyText.pytesseract.matplotlib_rcParams": "Save image to folder path[PATH] return recognized text[LIST]",
+    "gui.blocklyText.pytesseract.drawText": "Display text[TEXT] size[SIZE] color R[R] G[G] B[B] at X[X] Y[Y]"
+}

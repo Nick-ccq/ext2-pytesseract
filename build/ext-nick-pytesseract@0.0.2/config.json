@@ -1,0 +1,23 @@
+{
+    "id": "pytesseract",
+    "version": "0.0.2",
+    "name": {
+        "zh-cn": "pytesseract",
+        "en": "pytesseract"
+    },
+    "description": {
+        "zh-cn": "pytesseract 文字识别",
+        "en": "pytesseract OCR"
+    },
+    "cover": "cover.png",
+	"author": "nick",
+	"feature": ["function"],
+	"isDevice": false,
+	"sku": "",
+	"main": "main.js",
+    "compatibilityId": "nick-pytesseract-thirdex",
+    "mode": "python-block",
+	"meta": {
+		"extVersion": "0.1"
+	}
+}
